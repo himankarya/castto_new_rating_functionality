@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:background="@null">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/_300sdp"
+        android:layout_marginBottom="@dimen/_1sdp"
+        android:orientation="vertical">
+
+
+        <ImageView
+            android:layout_marginTop="@dimen/_25sdp"
+            android:layout_width="@dimen/_50sdp"
+            android:layout_height="@dimen/_50sdp"
+            android:layout_gravity="center"
+            android:src="@drawable/icon_good_not_really"/>
+
+
+        <TextView
+            android:id="@+id/choosetxt"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="15dp"
+            android:paddingLeft="@dimen/_10sdp"
+            android:text="@string/are_you_satified"
+            android:gravity="center"
+            android:textColor="@color/black"
+            android:textSize="18sp"
+            />
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_marginTop="@dimen/_20sdp"
+            android:orientation="vertical"
+            >
+
+            <Button
+                android:id="@+id/good_btn"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:background="@drawable/rating_button_bg"
+                android:textColor="#ffffff"
+                android:padding="@dimen/_12sdp"
+                android:layout_marginLeft="@dimen/_20sdp"
+                android:layout_marginRight="@dimen/_20sdp"
+                android:text="@string/good"
+                android:textStyle="bold"
+                />
+
+            <Button
+                android:id="@+id/not_really_btn"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="@dimen/_20sdp"
+                android:padding="@dimen/_12sdp"
+                android:background="@drawable/rating_button_bg"
+                android:textColor="#ffffff"
+                android:layout_marginLeft="@dimen/_20sdp"
+                android:layout_marginRight="@dimen/_20sdp"
+                android:text="@string/not_really"
+                android:textStyle="bold"
+                />
+
+
+        </LinearLayout>
+    </LinearLayout>
+</RelativeLayout>

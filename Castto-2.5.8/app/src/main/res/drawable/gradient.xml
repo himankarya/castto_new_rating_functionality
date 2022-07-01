@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+    <item>
+        <bitmap android:src="@drawable/button_half" />
+    </item>
+    <item>
+        <shape xmlns:android="http://schemas.android.com/apk/res/android">
+            <gradient
+                android:angle="180"
+                android:centerColor="#1AFFFFFF"
+                android:endColor="#1AFFFFFF"
+                android:startColor="#1AFFFFFF" />
+            <corners android:radius="@dimen/_4sdp"/>
+        </shape>
+    </item>
+</layer-list>

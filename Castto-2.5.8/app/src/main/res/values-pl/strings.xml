@@ -1,0 +1,135 @@
+<resources>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+    <string name="thank_you">Thank You</string>
+
+    <string name="app_name">Castto - Udostepnianie Ekranu na TV</string>
+    <string name="app_title">Screen Mirroring</string>
+
+    <string name="instructions">Instrukcje</string>
+
+    <!--side_bar_info-->
+
+    <string name="home">Dom</string>
+    <string name="privacy_policy">Polityka prywatności</string>
+    <string name="rate_us">Oceń nas</string>
+    <string name="more_apps">Więcej aplikacji</string>
+    <string name="share_app">Udostępnij aplikacje</string>
+    <string name="change_language">Zmień język</string>
+    <string name="exit">Wyjście</string>
+<!--    <string name="ad_settings">Ustawienia reklam</string>-->
+    <string name="ad_settings">AD Settings</string>
+
+    <!--home_screen_info-->
+
+    <string name="first_point">Upewnij się, że telewizor i telefon są połączone z tą samą siecią Wi-Fi</string>
+    <string name="second_point">Włącz wyświetlanie miracast na ekranie telewizora i opcję wyświetlania bezprzewodowego w telefonie</string>
+    <string name="third_point">Kliknij przycisk Wybierz i wybierz swój telewizor</string>
+
+    <string name="new_first_point">Telewizor i telefon muszą być podłączone \ndo tego samego Wi-Fi</string>
+    <string name="new_second_point">Włącz wyświetlanie Miracast w telewizorze</string>
+    <string name="new_third_point">Włącz wyświetlanie bezprzewodowe i wybierz \nswój telewizor</string>
+
+
+    <!--multi_language-->
+    <string name="multi_language">Wybierz język</string>
+    <string name="lang_desc">Kliknij ten przycisk i wybierz swój język.</string>
+    <!--rate_us_popup-->
+    <string name="rate_us_title">Wesprzyj nas</string>
+    <string name="rate_us_message">Jeśli lubisz korzystać z tej aplikacji, czy możesz poświęcić chwilę, aby ją ocenić? To nie zajmie więcej niż minutę. Dziękuję za wsparcie!</string>
+    <string name="rate_us_cancel">Nie, dziękuję</string>
+    <string name="rate_us_ok">TAK</string>
+
+    <!--share_app_text-->
+    <string name="download_this">Pobierz teraz tę aplikację!</string>
+
+    <!--exit_app_text-->
+    <string name="exit_desc">Czy na pewno chcesz zamknąć aplikację?</string>
+    <string name="exit_yes">tak</string>
+    <string name="exit_no">Nie</string>
+
+    <!--Live Ads-->
+      <string name="app_id">ca-app-pub-3424164443057663~5033483146</string>
+      <string name="banner_home_footer">ca-app-pub-3424164443057663/2755200945</string>
+      <string name="interstitial_full_screen">ca-app-pub-3424164443057663/4374979347</string>
+      <string name="native_ad">ca-app-pub-3424164443057663/3676119421</string>
+    <string name="open_ad">ca-app-pub-3424164443057663/2068442448</string>
+
+
+    <!--Test Ads-->
+    <!-- <string name="app_id">ca-app-pub-3940256099942544~3347511713</string>
+    <string name="banner_home_footer">ca-app-pub-3940256099942544/6300978111</string>
+    <string name="interstitial_full_screen">ca-app-pub-3940256099942544/1033173712</string>
+    <string name="native_ad">ca-app-pub-3940256099942544/2247696110</string>-->
+
+
+    <!--Home screen buttons-->
+    <string name="select">WYBIERZ</string>
+    <string name="info">JAK TO DZIAŁA</string>
+
+
+    <!--Feedback screen-->
+    <string name="leave_feedback">Wystawić opinię</string>
+    <string name="help_us">Pomóż nam ulepszyć</string>
+    <string name="feedback_detail">Chcemy wiedzieć, w jaki sposób możemy ulepszyć tę aplikację i sprawić, że z niej skorzystasz!</string>
+    <string name="contact_us">Wsparcie</string>
+
+    <!--Rate us-->
+    <string name="thanks_for_the_love">Dziękuję za miłość!</string>
+    <string name="rate_us_detail">Cieszymy się, że uwielbiasz korzystać z naszej aplikacji! Będziemy wdzięczni, jeśli poświęcisz chwilę, aby ocenić nas w Sklepie Play!</string>
+    <string name="rate_us_">Oceń nas!</string>
+
+    <!--Third exit from app-->
+    <string name="do_you_love_this_app">Czy lubisz tę aplikację?</string>
+    <string name="nah">Nie</string>
+    <string name="i_like_it">Lubię to!</string>
+
+
+    <string name="rate_text">Pozwól nam wiedzieć\nco myślisz</string>
+    <string name="contact_text">Daj nam znać, jak możemy poprawić</string>
+
+    <string name="ad_attribution">Ad</string>
+
+    <string name="rate_us_main">Korzystasz z aplikacji?</string>
+    <string name="ok">Dobrze</string>
+    <string name="sorry">PRZEPRASZAM</string>
+    <string name="follow_us">Zostańmy przyjaciółmi!</string>
+    <string name="cancel">Anuluj</string>
+    <string name="ratingMessage">Thanks! We are waiting for your 5-Star!</string>
+
+    <!--    Info Screen-->
+    <string name="selectt">Wybierz</string>
+    <string name="are_you_satified">Czy jesteś zadowolony z tego dublowania ekranu?</string>
+    <string name="good">DOBRY</string>
+    <string name="not_really">NIE CAŁKIEM</string>
+
+    <string name="rate">WSKAŹNIK</string>
+    <string name="better_user_experience">Ciężko pracujemy nad lepszym doświadczeniem użytkownika.</string>
+    <string name="greatly_aapreciate">Będziemy bardzo wdzięczni, jeśli możesz</string>
+    <string name="rating_us">Oceń nas.</string>
+    <string name="best_way_can_get">Najlepsze, co możemy :)</string>
+
+    <string name="tell_us_problem">Opowiedz nam o napotkanym problemie</string>
+    <string name="type">Rodzaj</string>
+    <string name="doesnot_work">Nie działa</string>
+    <string name="cannot_findmy_tv">Nie mogę znaleźć mojego telewizora</string>
+    <string name="poor_connection">Słabe połączenie</string>
+    <string name="too_many_ads">Za dużo reklam</string>
+    <string name="others">Inni</string>
+    <string name="more_details">Podaj nam więcej szczegółów..</string>
+    <string name="submit">ZATWIERDŹ</string>
+
+    <string name="oh_no">O nie!</string>
+    <string name="we_like_you_too">Ciebie też lubimy!</string>
+    <string name="thanks_for_feedback">Dziękuję za twój komentarz.</string>
+    <string name="rate_google_play">OCENA W GOOGLE PLAY</string>
+    <string name="please_leave_us_feedback">Przekaż nam swoją opinię.</string>
+
+    <string name="thanks_feedback">Dziekuję za odpowiedź</string>
+    <string name="future_version">Naprawimy w przyszłej wersji.</string>
+    <string name="sorry_inconvenience">Przepraszam za niedogodności.</string>
+</resources>

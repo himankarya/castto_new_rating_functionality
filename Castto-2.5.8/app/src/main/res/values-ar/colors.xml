@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3d47a0</color>
+    <color name="colorPrimaryDark">#434eaf</color>
+    <color name="colorAccent">#4d69b3</color>
+    <color name="white">#ffffff</color>
+    <color name="black">#181818</color>
+
+    <color name="drawable_bg_color">#679ed7</color>
+    <color name="drawer_line_color">#6aa1dd</color>
+    <color name="select_language_bg_color">#6aa1dd</color>
+    <color name="select_language_arrow_color">#4d69b3</color>
+    <color name="enable_cancled_text_color">#f64211</color>
+    <color name="title_color">#333d95</color>
+
+</resources>

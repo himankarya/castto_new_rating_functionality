@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/activity_splash"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/colorAccent">
+
+    <LinearLayout
+        android:id="@+id/splash"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerInParent="true"
+        android:gravity="center"
+        android:orientation="vertical">
+
+        <ImageView
+            android:id="@+id/splash_image"
+            android:layout_width="120.0dip"
+            android:layout_height="120.0dip"
+            app:srcCompat="@drawable/qr_splash" />
+
+        <TextView
+            android:id="@+id/splash_text"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:padding="8.0dip"
+            android:text=""
+            android:textColor="@color/white"
+            android:textSize="18sp"
+            android:textStyle="bold" />
+
+        <!--        <ProgressBar-->
+        <!--        android:id="@+id/progress_bar"-->
+        <!--        style="@android:style/Widget.Material.ProgressBar.Horizontal"-->
+        <!--        android:layout_width="160.0dip"-->
+        <!--        android:layout_height="wrap_content"-->
+        <!--        android:layout_below="@id/splashh"-->
+        <!--        android:layout_centerInParent="true"-->
+        <!--        android:layout_gravity="center"-->
+        <!--        android:layout_marginTop="@dimen/_10sdp"-->
+        <!--        android:indeterminate="true"-->
+        <!--        android:theme="@style/AppTheme.WhiteAccent"-->
+        <!--        tools:targetApi="jelly_bean"-->
+        <!--        tools:ignore="NewApi" />-->
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/tashieLoader"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/splash"
+        android:layout_marginTop="@dimen/_7sdp"
+        android:gravity="center"
+        android:orientation="vertical">
+
+        <com.agrawalsuneet.dotsloader.loaders.TashieLoader
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:visibility="gone"
+            app:tashieloader_animDelay="200"
+            app:tashieloader_animDur="1000"
+            app:tashieloader_dotsColor="@color/white"
+            app:tashieloader_dotsDist="5dp"
+            app:tashieloader_dotsRadius="19dp"
+            app:tashieloader_interpolator="@android:anim/accelerate_interpolator"
+            app:tashieloader_noOfDots="10" />
+    </LinearLayout>
+
+</RelativeLayout>

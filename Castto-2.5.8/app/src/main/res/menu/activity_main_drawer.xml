@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group
+        android:id="@+id/my_id6"
+        android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_multilanguage"
+            android:icon="@drawable/language_icon"
+            android:title="@string/change_language" />
+    </group>
+
+    <group
+        android:id="@+id/my_id3"
+        android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_rate_us"
+            android:icon="@drawable/ic_favorite_white_24dp"
+            android:title="@string/rate_us" />
+    </group>
+    <group
+        android:id="@+id/my_id4"
+        android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_more_apps"
+            android:icon="@drawable/more_apps_icon"
+            android:title="@string/more_apps" />
+    </group>
+    <group
+        android:id="@+id/my_id5"
+        android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_share_app"
+            android:icon="@drawable/share_apps_icon"
+            android:title="@string/share_app" />
+    </group>
+
+    <group
+        android:id="@+id/my_id2"
+        android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_privacy_policy"
+            android:icon="@drawable/privacy_icon"
+            android:title="@string/privacy_policy" />
+    </group>
+
+    <group
+        android:id="@+id/my_id8"
+        android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_ad_settings"
+            android:icon="@drawable/ad_settings_icon"
+            android:title="@string/ad_settings" />
+    </group>
+
+    <group
+        android:id="@+id/my_id7"
+        android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_follow_us"
+            android:icon="@drawable/ic_follow_us"
+            android:title="@string/follow_us" />
+    </group>
+
+</menu>

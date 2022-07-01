@@ -1,0 +1,135 @@
+<resources>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+    <string name="thank_you">Thank You</string>
+
+    <string name="app_name">Castto</string>
+    <string name="app_title">трансляция на телевизор</string>
+
+    <string name="instructions">инструкции</string>
+
+    <!--side_bar_info-->
+
+    <string name="home">Главная</string>
+    <string name="privacy_policy">Privacy Policy</string>
+    <string name="rate_us">Оцените нас</string>
+    <string name="more_apps">Больше приложений</string>
+    <string name="share_app">Поделиться приложением</string>
+    <string name="change_language">Изменить язык</string>
+    <string name="exit">Выход</string>
+<!--    <string name="ad_settings">Настройки рекламы</string>-->
+    <string name="ad_settings">AD Settings</string>
+
+    <!--home_screen_info-->
+
+    <string name="first_point">Убедитесь, что ваш телевизор и телефон подключены к одной сети Wi-Fi</string>
+    <string name="second_point">Включите Miracast Display на вашем телевизоре и опцию Wireless Display на вашем телефоне</string>
+    <string name="third_point">Нажмите кнопку Выбрать и выберите свой телевизор</string>
+
+    <string name="new_first_point">Телевизор и телефон должны быть \nподключены к одному Wi-Fi</string>
+    <string name="new_second_point">Включите Miracast Display на вашем \nтелевизоре</string>
+    <string name="new_third_point">Включите беспроводной дисплей и \nвыберите свой телевизор</string>
+
+
+    <!--multi_language-->
+    <string name="multi_language">Выберите язык</string>
+    <string name="lang_desc">Нажмите на эту кнопку и выберите ваш язык.</string>
+    <!--rate_us_popup-->
+    <string name="rate_us_title">Поддерживать нас</string>
+    <string name="rate_us_message">Если вам нравится использовать это приложение, не могли бы вы уделить минуту, чтобы оценить его? Это не займет больше минуты. Спасибо за вашу поддержку!</string>
+    <string name="rate_us_cancel">Нет, спасибо</string>
+    <string name="rate_us_ok">ДА</string>
+
+    <!--share_app_text-->
+    <string name="download_this">Загрузите это приложение сейчас</string>
+
+    <!--exit_app_text-->
+    <string name="exit_desc">Вы уверены, что хотите выйти из приложения?</string>
+    <string name="exit_yes">да</string>
+    <string name="exit_no">нет</string>
+
+    <!--Live Ads-->
+      <string name="app_id">ca-app-pub-3424164443057663~5033483146</string>
+      <string name="banner_home_footer">ca-app-pub-3424164443057663/2755200945</string>
+      <string name="interstitial_full_screen">ca-app-pub-3424164443057663/4374979347</string>
+      <string name="native_ad">ca-app-pub-3424164443057663/3676119421</string>
+      <string name="open_ad">ca-app-pub-3424164443057663/2068442448</string>
+
+
+    <!--Test Ads-->
+    <!--<string name="app_id">ca-app-pub-3940256099942544~3347511713</string>
+   <string name="banner_home_footer">ca-app-pub-3940256099942544/6300978111</string>
+   <string name="interstitial_full_screen">ca-app-pub-3940256099942544/1033173712</string>
+   <string name="native_ad">ca-app-pub-3940256099942544/2247696110</string>-->
+
+
+   <!--Home screen buttons-->
+    <string name="select">ВЫБРАТЬ</string>
+    <string name="info">Информация</string>
+
+
+    <!--Feedback screen-->
+    <string name="leave_feedback">Оставьте отзыв</string>
+    <string name="help_us">Помогите нам улучшить</string>
+    <string name="feedback_detail">Мы хотели бы знать, как мы можем сделать это приложение лучше и сделать ваш опыт счастливым!</string>
+    <string name="contact_us">Помогите</string>
+
+    <!--Rate us-->
+    <string name="thanks_for_the_love">Спасибо за любовь!</string>
+    <string name="rate_us_detail">Мы рады, что вы любите использовать наше приложение! Мы будем признательны, если вы не пожалеете время, чтобы оценить нас в Play Store!</string>
+    <string name="rate_us_">Оцените нас!</string>
+
+    <!--Third exit from app-->
+    <string name="do_you_love_this_app">Вам нравится это приложение?</string>
+    <string name="nah">Неа</string>
+    <string name="i_like_it">Мне это нравится!</string>
+
+
+    <string name="rate_text">Пожалуйста, сообщите\nнам свое мнение</string>
+    <string name="contact_text">Пожалуйста, дайте нам знать, как мы можем улучшить</string>
+
+    <string name="ad_attribution">Ad</string>
+
+    <string name="rate_us_main">Наслаждаешься приложением?</string>
+    <string name="ok">Хорошо</string>
+    <string name="sorry">ИЗВИНЯЮСЬ</string>
+    <string name="follow_us">давай будем друзьями!</string>
+    <string name="cancel">отменить</string>
+    <string name="ratingMessage">Thanks! We are waiting for your 5-Star!</string>
+
+    <!--    Info Screen-->
+    <string name="selectt">Выбрать</string>
+    <string name="are_you_satified">Довольны ли вы этим зеркалированием экрана?</string>
+    <string name="good">ХОРОШИЙ</string>
+    <string name="not_really">НЕ СОВСЕМ</string>
+
+    <string name="rate">ОЦЕНИВАТЬ</string>
+    <string name="better_user_experience">Мы прилагаем все усилия для лучшего взаимодействия с пользователем.</string>
+    <string name="greatly_aapreciate">Мы будем очень признательны, если вы сможете</string>
+    <string name="rating_us">оцените нас.</string>
+    <string name="best_way_can_get">Лучшее, что мы можем получить :)</string>
+
+    <string name="tell_us_problem">Расскажите нам о проблеме, с которой вы столкнулись</string>
+    <string name="type">Тип</string>
+    <string name="doesnot_work">Не работает</string>
+    <string name="cannot_findmy_tv">не могу найти свой телевизор</string>
+    <string name="poor_connection">Плохое соединение</string>
+    <string name="too_many_ads">Слишком много рекламы</string>
+    <string name="others">Другие</string>
+    <string name="more_details">Расскажите, пожалуйста, подробнее..</string>
+    <string name="submit">РАЗМЕСТИТЬ</string>
+
+    <string name="oh_no">О, нет!</string>
+    <string name="we_like_you_too">Ты нам тоже нравишься!</string>
+    <string name="thanks_for_feedback">Спасибо за ваш отзыв.</string>
+    <string name="rate_google_play">СТАВКА В GOOGLE PLAY</string>
+    <string name="please_leave_us_feedback">Пожалуйста, оставьте нам отзыв.</string>
+
+    <string name="thanks_feedback">Спасибо за ваш отзыв</string>
+    <string name="future_version">Мы исправим в будущей версии.</string>
+    <string name="sorry_inconvenience">Извините за беспокойство.</string>
+</resources>

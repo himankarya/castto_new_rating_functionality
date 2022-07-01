@@ -1,0 +1,137 @@
+<resources>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+    <string name="thank_you">Thank You</string>
+
+    <string name="app_name">Castto - Screen Mirroring</string>
+    <string name="app_title">Screen Mirroring</string>
+
+    <string name="instructions">Mga tagubilin</string>
+
+    <!--side_bar_info-->
+
+    <string name="home">Bahay</string>
+    <string name="privacy_policy">Patakaran sa privacy</string>
+    <string name="rate_us">Rate sa amin</string>
+    <string name="more_apps">Higit pang mga app</string>
+    <string name="share_app">Ibahagi ang app</string>
+    <string name="change_language">Baguhin ang Wika</string>
+    <string name="exit">Lumabas</string>
+<!--    <string name="ad_settings">Mga Setting ng Ad</string>-->
+    <string name="ad_settings">AD Settings</string>
+
+
+    <!--home_screen_info-->
+
+    <string name="first_point">Tiyaking nakakonekta ang iyong TV at telepono sa parehong Wi-Fi network</string>
+    <string name="second_point">Paganahin ang display ng Miracast sa TV at wireless display sa iyong telepono.</string>
+    <string name="third_point">I-click ang pindutan ng Piliin at \npiliin ang iyong TV</string>
+
+    <string name="new_first_point">Dapat na konektado ang TV at Telepono sa \nparehong wifi</string>
+    <string name="new_second_point">Paganahin ang Miracast Display sa iyong TV</string>
+    <string name="new_third_point">Paganahin ang Wireless Display at \npiliin ang iyong TV</string>
+
+
+    <!--multi_language-->
+    <string name="multi_language">Piliin ang Wika</string>
+    <string name="lang_desc">Mag-click sa pindutang ito at piliin ang iyong wika.</string>
+    <!--rate_us_popup-->
+    <string name="rate_us_title">Suportahan kami</string>
+    <string name="rate_us_message">Kung masiyahan ka sa paggamit ng App na ito, sasagutin mo ba ang sandaling i-rate ito? Hindi ito tumagal ng higit sa isang minuto. Salamat sa iyong suporta!</string>
+    <string name="rate_us_cancel">Salamat nalang</string>
+    <string name="rate_us_ok">OO</string>
+
+    <!--share_app_text-->
+    <string name="download_this">I-download ang app na ito ngayon!</string>
+
+    <!--exit_app_text-->
+    <string name="exit_desc">Sigurado ka ba na gusto mong lumabas sa application?</string>
+    <string name="exit_yes">Oo</string>
+    <string name="exit_no">Hindi</string>
+
+    <!--Live Ads-->
+      <string name="app_id">ca-app-pub-3424164443057663~5033483146</string>
+      <string name="banner_home_footer">ca-app-pub-3424164443057663/2755200945</string>
+      <string name="interstitial_full_screen">ca-app-pub-3424164443057663/4374979347</string>
+      <string name="native_ad">ca-app-pub-3424164443057663/3676119421</string>
+    <string name="open_ad">ca-app-pub-3424164443057663/2068442448</string>
+
+
+    <!--Test Ads-->
+    <!--<string name="app_id">ca-app-pub-3940256099942544~3347511713</string>
+  <string name="banner_home_footer">ca-app-pub-3940256099942544/6300978111</string>
+  <string name="interstitial_full_screen">ca-app-pub-3940256099942544/1033173712</string>
+  <string name="native_ad">ca-app-pub-3940256099942544/2247696110</string>-->
+
+
+  <!--Home screen buttons-->
+    <string name="select">PUMILI NG TV</string>
+    <string name="info">Paano Gamitin</string>
+
+
+    <!--Feedback screen-->
+    <string name="leave_feedback">Mag-iwan ng opinyon</string>
+    <string name="help_us">Tulungan kaming pabutihin</string>
+    <string name="feedback_detail">Gustung-gusto naming malaman kung paano namin maaaring gawing mas mahusay ang App na ito at gawing masaya ang iyong karanasan dito!</string>
+    <string name="contact_us">Tulong</string>
+
+    <!--Rate us-->
+    <string name="thanks_for_the_love">Salamat sa pag-ibig!</string>
+    <string name="rate_us_detail">Kami ay masaya na mahilig ka sa paggamit ng aming App! Pinagpapahalaga namin kung maaari kang maglaan ng sandali upang i-rate kami sa Play Store!</string>
+    <string name="rate_us_">Rate sa Amin!</string>
+
+    <!--Third exit from app-->
+    <string name="do_you_love_this_app">Gustung-gusto mo ba ang App na ito?</string>
+    <string name="nah">Nah</string>
+    <string name="i_like_it">Gusto ko ito!</string>
+
+
+    <string name="rate_text">Pakisabi sa amin kung\nano ang iyong iniisip</string>
+    <string name="contact_text">ipaalam sa amin kung paano namin mapapabuti</string>
+
+    <string name="ad_attribution">Ad</string>
+
+    <string name="rate_us_main">Tinatangkilik ang app?</string>
+    <string name="ok">OK</string>
+    <string name="sorry">SORRY</string>
+    <string name="follow_us">Maging kaibigan tayo!</string>
+    <string name="cancel">Kanselahin</string>
+    <string name="ratingMessage">Thanks! We are waiting for your 5-Star!</string>
+
+    <!--    Info Screen-->
+    <string name="selectt">PUMILI NG TV</string>
+    <string name="are_you_satified">Nasiyahan ka ba sa Screen Mirroring na ito?</string>
+    <string name="good">MABUTI</string>
+    <string name="not_really">HINDI TALAGA</string>
+
+    <string name="rate">RATE</string>
+    <string name="better_user_experience">Nagsusumikap kami nang husto para sa mas magandang karanasan ng user.</string>
+    <string name="greatly_aapreciate">Lubos naming pinahahalagahan kung magagawa mo</string>
+    <string name="rating_us">i-rate kami.</string>
+    <string name="best_way_can_get">The best na makukuha natin :)</string>
+
+    <string name="tell_us_problem">Sabihin sa amin ang problemang naranasan mo</string>
+    <string name="type">Uri</string>
+    <string name="doesnot_work">Hindi gumagana</string>
+    <string name="cannot_findmy_tv">Hindi mahanap ang aking tv</string>
+    <string name="poor_connection">Mahina ang koneksyon</string>
+    <string name="too_many_ads">Masyadong maraming ad</string>
+    <string name="others">Ang iba</string>
+    <string name="more_details">Mangyaring sabihin sa amin ang higit pang mga detalye..</string>
+    <string name="submit">IPASA</string>
+
+    <string name="oh_no">Oh hindi!</string>
+    <string name="we_like_you_too">Gusto ka rin namin!</string>
+    <string name="thanks_for_feedback">Salamat sa iyong feedback.</string>
+    <string name="rate_google_play">RATE SA GOOGLE PLAY</string>
+    <string name="please_leave_us_feedback">Mangyaring mag-iwan sa amin ng ilang feedback.</string>
+
+    <string name="thanks_feedback">Salamat sa iyong feedback</string>
+    <string name="future_version">Aayusin namin sa hinaharap na bersyon.</string>
+    <string name="sorry_inconvenience">Paumanhin sa abala.</string>
+
+</resources>
